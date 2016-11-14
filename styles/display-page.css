@@ -1,0 +1,47 @@
+main {
+    padding: 30px;
+    font-size: 0;
+}
+
+.outer {
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 800px;
+    border: 1px solid black;
+}
+
+.upper {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    font-size: 0;
+    border: 1px solid black;
+}
+
+.inside1 {
+    background-color: green;
+}
+
+.inside2 {
+	background-color: blue;
+}
+
+.lower {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+
+.inside3 {
+	background-color: grey;
+}
+
+.inside4 {
+	background-color: black;
+}
+.inside5 {
+	background-color: orange;
+}
